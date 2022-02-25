@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: estoque-service
+  output:
+    ansi:
+      enabled: always
+springdoc:
+  swagger-ui:
+    path: /swagger-ui
